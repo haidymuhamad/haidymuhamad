@@ -1,3 +1,11 @@
+<p align="center">
+  <img
+    src="./banner.png"
+    width="100%"
+    alt="Haidy Mohamed Abdelfattah - Software Developer"
+  />
+</p>
+
 # Hi, I'm Haidy Mohamed Abdelfattah 💗
 
 ### Computer Science Student | Aspiring Software Developer | Ain Shams University
